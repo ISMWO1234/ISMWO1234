@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISMWO1234
-- 👀 I’m interested in PHP html css and Mysql.
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Python PHP html css and Mysql.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project that needs help.
 - 📫 How to reach me Gboxq2downstairs@gmail.com.
 
